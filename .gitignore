@@ -1,0 +1,8 @@
+build/
+raylib-build/
+raylib-test/
+.vscode/
+*.exe
+*.dll
+*.o
+*.obj
